@@ -1,0 +1,23 @@
+body {
+
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     
+}
+
+
+.jumbotron {
+
+    color: red;
+    background-color: rgb(41, 40, 40);
+
+}
+
+.panel-body {
+
+    background-color: rgb(41, 40, 40);
+    color: white;
+}
+
+
+
